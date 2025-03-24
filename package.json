@@ -16,7 +16,7 @@
     "@mui/icons-material": "^6.4.7",
     "@mui/lab": "^6.0.0-beta.30",
     "@mui/material": "^6.4.7",
-    "@mui/x-date-pickers": "^5.0.20",
+    "@mui/x-date-pickers": "^7.0.0",
     "date-fns": "^2.29.3",
     "framer-motion": "^12.4.10",
     "localforage": "^1.10.0",
