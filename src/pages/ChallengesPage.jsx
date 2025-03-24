@@ -37,7 +37,7 @@ import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 
 import SectionHeader from "../components/ui/SectionHeader";
-import { challengesData } from "../data/challengesData";
+import { challengesData } from "../data/challengesdata";
 import { useProgress } from "../contexts/ProgressContext";
 
 import { Link as RouterLink } from "react-router-dom";
