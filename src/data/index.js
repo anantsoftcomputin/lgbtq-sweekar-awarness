@@ -1,7 +1,7 @@
 // Import the data from the JSON files
 import { socialData } from "./socialData";
 import { resourcesData } from "./resourcesData";
-import { challengesData } from "./challengesData";
+import { challengesData } from "./challengesdata";
 import { legalData } from "./legalData";
 import { identitiesData } from "./identitiesData";
 import { historicalData } from "./historicalData";
